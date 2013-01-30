@@ -10,7 +10,7 @@ Works with only ruby 1.9.2 and up for now because I'm lazy and like the Random c
 
 Add this line to your Gemfile:
 
-```ruby
+```javascript
 gem 'sometimes'
 ```
 
